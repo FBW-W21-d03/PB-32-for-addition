@@ -1,4 +1,4 @@
-# javascript-for-loop-multiply
+# javascript-for-addition
 
 ## Aufgabenstellung
 Schreibe eine for-Schleife.
